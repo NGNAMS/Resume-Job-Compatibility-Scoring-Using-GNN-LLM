@@ -1,6 +1,6 @@
 # Resume-Job Compatibility Model Based on GNN and LLM
 
-A Graph Neural Network (GNN) and Large Language Model (LLM) based system for predicting resume-job compatibility scores, developed as part of a Master's project research project.
+A Graph Neural Network (GNN) and Large Language Model (LLM) based system for predicting resume-job compatibility scores, developed as part of a Master's research project.
 
 ## 📋 Table of Contents
 
@@ -541,7 +541,7 @@ Key papers that influenced this research:
 
 ## 🤝 Contributing
 
-This is a research project developed for a Master's project. If you'd like to build upon this work:
+This is a research project developed for a Master's course. If you'd like to build upon this work:
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/improvement`)
