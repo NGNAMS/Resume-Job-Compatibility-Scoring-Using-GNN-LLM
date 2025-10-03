@@ -40,10 +40,6 @@ This research addresses these challenges through a graph-based approach that cap
 
 ## 📊 Dataset
 
-### Source
-- **Resumes**: [cvbuilder.me](https://cvbuilder.me) - A resume building platform active since 2018
-- **Jobs**: [jobstart.app](https://jobstart.app) - A job recruitment platform
-
 **Note on Data Access:** The dataset used in this research is proprietary and private. However, if you are interested in testing the model or conducting related research, a sample dataset can be provided for academic purposes. Please contact: **neginamirsoleimani@outlook.com**
 
 ### Statistics
@@ -66,7 +62,7 @@ Compatibility scores were assigned by HR experts on a scale of 0-100, with score
 The workflow consists of six main steps:
 
 ### 1. Dataset Collection
-- Resumes and job descriptions collected from cvbuilder.me and jobstart.app
+- Resumes and job descriptions collected from private sources (contact for data sample)
 - HR experts assigned compatibility scores (0-100) for each resume-job pair
 
 ### 2. Information Extraction
