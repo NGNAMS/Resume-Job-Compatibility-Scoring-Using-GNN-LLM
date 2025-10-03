@@ -252,7 +252,6 @@ Four experiments were conducted to identify the optimal configuration:
 
 ## 📧 Contact & Data Access
 
-**Author:** Master's Thesis Project  
 **Contact:** neginamirsoleimani@outlook.com
 
 **Dataset:** The dataset used in this research is proprietary and private. A sample dataset can be provided for academic research and testing purposes upon request. See [DATASET_INFO.md](DATASET_INFO.md) for details.
