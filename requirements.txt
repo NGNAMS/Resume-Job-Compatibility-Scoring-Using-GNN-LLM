@@ -1,0 +1,39 @@
+# Core Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+
+# PyTorch Geometric (Graph Neural Networks)
+torch-geometric>=2.3.0
+torch-scatter>=2.1.0
+torch-sparse>=0.6.16
+pyg-lib>=0.3.0
+
+# NLP and Text Processing
+spacy>=3.5.0
+openai>=1.0.0
+
+# Data Processing
+numpy>=1.24.0
+pandas>=1.5.0
+
+# Machine Learning
+scikit-learn>=1.2.0
+
+# Database
+pymongo>=4.3.0
+
+# Visualization
+matplotlib>=3.7.0
+networkx>=3.0
+
+# String Matching
+fuzzywuzzy>=0.18.0
+python-Levenshtein>=0.20.0
+
+# Utilities
+tqdm>=4.65.0
+
+# Additional dependencies
+bson>=0.5.10
+
