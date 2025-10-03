@@ -560,14 +560,11 @@ This project is part of academic research. Please contact the author for licensi
 
 ## 👤 Author
 
-**Master's Thesis Project**
-- Platforms: [cvbuilder.me](https://cvbuilder.me) | [jobstart.app](https://jobstart.app)
 - Dataset: 3,460 IT job applications with HR-assigned scores (private)
 - Contact: **neginamirsoleimani@outlook.com**
 
 ## 🙏 Acknowledgments
 
-- cvbuilder.me and jobstart.app for providing real-world dataset
 - HR experts who annotated compatibility scores
 - OpenAI for embedding models and ChatGPT API
 - PyTorch Geometric team for graph learning tools
